@@ -90,4 +90,4 @@ insight into how it was built or how it worked. It was incredibly limiting, whic
 sense of freedom that comes with using, contributing and writing open source software has few parallels.
 
 ###[Andrew Elkins](http://andrewelkins.com)
-Open source is important to me because others to gain from past experiences. Allowing written code to be viewed and commented on gives others the option to expand and build upon what has already been created. It not only shortens development lifecycles, but furthers our collective knowledge. 
+Open source is important to me because allows others to gain from past experiences. Allowing written code to be viewed and commented on gives others the option to expand and build upon what has already been created. It not only shortens development lifecycles, but furthers our collective knowledge. 
