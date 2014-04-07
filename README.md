@@ -91,3 +91,8 @@ sense of freedom that comes with using, contributing and writing open source sof
 
 ###[Andrew Elkins](http://andrewelkins.com)
 Open source is important to me because allows others to gain from past experiences. Allowing written code to be viewed and commented on gives others the option to expand and build upon what has already been created. It not only shortens development lifecycles, but furthers our collective knowledge. 
+
+
+
+###[Das] (http://stackoverflow.com/users/303347/das)
+Open source means being able to advance collective human knowledge and understanding by standing on the shoulders of giants and building on the collective wisdom and experience of the masses to create computing systems which can be shared and passed on to the next generation to help future generations escape technological obsolescence and to enable and equip them with the tools required to face the challenges of the future.
